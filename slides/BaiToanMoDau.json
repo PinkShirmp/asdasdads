@@ -1,0 +1,82 @@
+{
+  "slides": [
+    {
+      "type": "slide",
+      "start_animation": 0,
+      "end_animation": 1,
+      "number": 1
+    },
+    {
+      "type": "slide",
+      "start_animation": 1,
+      "end_animation": 2,
+      "number": 2
+    },
+    {
+      "type": "slide",
+      "start_animation": 2,
+      "end_animation": 6,
+      "number": 3
+    },
+    {
+      "type": "slide",
+      "start_animation": 6,
+      "end_animation": 7,
+      "number": 4
+    },
+    {
+      "type": "slide",
+      "start_animation": 7,
+      "end_animation": 9,
+      "number": 5
+    },
+    {
+      "type": "slide",
+      "start_animation": 9,
+      "end_animation": 12,
+      "number": 6
+    },
+    {
+      "type": "slide",
+      "start_animation": 12,
+      "end_animation": 13,
+      "number": 7
+    },
+    {
+      "type": "slide",
+      "start_animation": 13,
+      "end_animation": 14,
+      "number": 8
+    },
+    {
+      "type": "last",
+      "start_animation": 14,
+      "end_animation": 17,
+      "number": 9
+    }
+  ],
+  "files": [
+    "slides/files/BaiToanMoDau/4266129954_2477397985_2647940396.mp4",
+    "slides/files/BaiToanMoDau/1442284246_3000475546_2342712853.mp4",
+    "slides/files/BaiToanMoDau/1442284246_528431994_3838410903.mp4",
+    "slides/files/BaiToanMoDau/1442284246_2204660003_416099564.mp4",
+    "slides/files/BaiToanMoDau/1442284246_4135872760_315328627.mp4",
+    "slides/files/BaiToanMoDau/1442284246_839499978_927732578.mp4",
+    "slides/files/BaiToanMoDau/1442284246_4113776583_347344202.mp4",
+    "slides/files/BaiToanMoDau/1442284246_1463787259_2342712853.mp4",
+    "slides/files/BaiToanMoDau/1442284246_3592500179_2342712853.mp4",
+    "slides/files/BaiToanMoDau/1442284246_2719397520_2739390273.mp4",
+    "slides/files/BaiToanMoDau/1442284246_3749962345_1189334226.mp4",
+    "slides/files/BaiToanMoDau/1442284246_1255166311_32731112.mp4",
+    "slides/files/BaiToanMoDau/1442284246_845052480_3377596011.mp4",
+    "slides/files/BaiToanMoDau/1442284246_2555247172_2632998986.mp4",
+    "slides/files/BaiToanMoDau/1442284246_1847123039_2707573521.mp4",
+    "slides/files/BaiToanMoDau/1442284246_2865752525_1083470257.mp4",
+    "slides/files/BaiToanMoDau/1442284246_454037495_3745958495.mp4"
+  ],
+  "resolution": [
+    854,
+    480
+  ],
+  "background_color": "black"
+}

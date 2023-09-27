@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/tue/Desktop/code/chuyen-de-toan_real/media/videos/main/480p15/partial_movie_files/Introduction2/4266129954_2933459849_223132457.mp4'
+file 'file:/home/tue/Desktop/code/chuyen-de-toan_real/media/videos/main/480p15/partial_movie_files/Introduction2/1442284246_1999442422_2611269927.mp4'
+file 'file:/home/tue/Desktop/code/chuyen-de-toan_real/media/videos/main/480p15/partial_movie_files/Introduction2/1442284246_3909643808_632234453.mp4'
+file 'file:/home/tue/Desktop/code/chuyen-de-toan_real/media/videos/main/480p15/partial_movie_files/Introduction2/1442284246_312842230_2976443220.mp4'

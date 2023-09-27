@@ -1,0 +1,19 @@
+{
+  "slides": [
+    {
+      "type": "last",
+      "start_animation": 1,
+      "end_animation": 2,
+      "number": 1
+    }
+  ],
+  "files": [
+    "slides/files/Introduction/3131623803_4106147763_2528067308.mp4",
+    "slides/files/Introduction/3915373050_3604166955_1974024652.mp4"
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "background_color": "black"
+}

@@ -1,0 +1,27 @@
+{
+  "slides": [
+    {
+      "type": "slide",
+      "start_animation": 0,
+      "end_animation": 2,
+      "number": 1
+    },
+    {
+      "type": "last",
+      "start_animation": 2,
+      "end_animation": 4,
+      "number": 2
+    }
+  ],
+  "files": [
+    "slides/files/Introduction2/2902699114_2933459849_223132457.mp4",
+    "slides/files/Introduction2/3931933789_1999442422_2611269927.mp4",
+    "slides/files/Introduction2/3931933789_3909643808_632234453.mp4",
+    "slides/files/Introduction2/3931933789_312842230_2976443220.mp4"
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "background_color": "black"
+}
