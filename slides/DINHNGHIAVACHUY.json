@@ -1,0 +1,105 @@
+{
+  "slides": [
+    {
+      "type": "slide",
+      "start_animation": 0,
+      "end_animation": 3,
+      "number": 1
+    },
+    {
+      "type": "slide",
+      "start_animation": 3,
+      "end_animation": 7,
+      "number": 2
+    },
+    {
+      "type": "slide",
+      "start_animation": 7,
+      "end_animation": 9,
+      "number": 3
+    },
+    {
+      "type": "slide",
+      "start_animation": 9,
+      "end_animation": 10,
+      "number": 4
+    },
+    {
+      "type": "slide",
+      "start_animation": 10,
+      "end_animation": 11,
+      "number": 5
+    },
+    {
+      "type": "slide",
+      "start_animation": 11,
+      "end_animation": 12,
+      "number": 6
+    },
+    {
+      "type": "slide",
+      "start_animation": 12,
+      "end_animation": 13,
+      "number": 7
+    },
+    {
+      "type": "slide",
+      "start_animation": 13,
+      "end_animation": 15,
+      "number": 8
+    },
+    {
+      "type": "slide",
+      "start_animation": 15,
+      "end_animation": 17,
+      "number": 9
+    },
+    {
+      "type": "slide",
+      "start_animation": 17,
+      "end_animation": 19,
+      "number": 10
+    },
+    {
+      "type": "slide",
+      "start_animation": 19,
+      "end_animation": 21,
+      "number": 11
+    },
+    {
+      "type": "last",
+      "start_animation": 21,
+      "end_animation": 22,
+      "number": 12
+    }
+  ],
+  "files": [
+    "slides/files/DINHNGHIAVACHUY/2902699114_3976456696_223132457.mp4",
+    "slides/files/DINHNGHIAVACHUY/3931933789_2310281740_2473153709.mp4",
+    "slides/files/DINHNGHIAVACHUY/3931933789_329969645_2754727762.mp4",
+    "slides/files/DINHNGHIAVACHUY/3931933789_3705948574_3650912350.mp4",
+    "slides/files/DINHNGHIAVACHUY/3931933789_329969645_4280254759.mp4",
+    "slides/files/DINHNGHIAVACHUY/3931933789_3538600530_2773880397.mp4",
+    "slides/files/DINHNGHIAVACHUY/3931933789_329969645_1295290872.mp4",
+    "slides/files/DINHNGHIAVACHUY/3931933789_2646493000_1751172002.mp4",
+    "slides/files/DINHNGHIAVACHUY/3931933789_757266531_4281185304.mp4",
+    "slides/files/DINHNGHIAVACHUY/3931933789_366855889_979083500.mp4",
+    "slides/files/DINHNGHIAVACHUY/3931933789_3696599531_1883792325.mp4",
+    "slides/files/DINHNGHIAVACHUY/3931933789_203230192_3389003710.mp4",
+    "slides/files/DINHNGHIAVACHUY/3931933789_3507536108_3859893959.mp4",
+    "slides/files/DINHNGHIAVACHUY/3931933789_2666136219_3469863596.mp4",
+    "slides/files/DINHNGHIAVACHUY/3931933789_3098271833_1737406606.mp4",
+    "slides/files/DINHNGHIAVACHUY/3931933789_1346221752_837437332.mp4",
+    "slides/files/DINHNGHIAVACHUY/3931933789_881697744_1737406606.mp4",
+    "slides/files/DINHNGHIAVACHUY/3931933789_2802430934_837437332.mp4",
+    "slides/files/DINHNGHIAVACHUY/3931933789_1578921_1737406606.mp4",
+    "slides/files/DINHNGHIAVACHUY/3931933789_1780297496_3701857491.mp4",
+    "slides/files/DINHNGHIAVACHUY/3931933789_3489178453_1737406606.mp4",
+    "slides/files/DINHNGHIAVACHUY/3931933789_2838867320_671987102.mp4"
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "background_color": "black"
+}
